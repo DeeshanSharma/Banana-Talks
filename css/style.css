@@ -23,3 +23,54 @@ textarea {
 	width: 60%;
 	font-family: "Montserrat", sans-serif;
 }
+footer {
+	background-color: yellow;
+	margin: 20px 0 0 0;
+	padding: 22px;
+	text-align: center;
+	border-top: 2px solid black;
+	position: relative;
+	bottom: 0;
+	left: 0;
+}
+footer a {
+	padding: 0 3rem;
+	margin: 0;
+	text-decoration: none;
+	color: black;
+}
+a:hover {
+	text-decoration: underline;
+	color: magenta;
+}
+footer p {
+	margin: 15px 0 0 0;
+}
+h3 {
+	margin: 0;
+	font-weight: lighter;
+	font-size: x-large;
+}
+p {
+	font-family: "Montserrat", sans-serif;
+}
+.about {
+	width: 70%;
+	display: inline-block;
+	margin: 20px;
+	padding: 20px;
+	border: 4px double yellow;
+}
+#btn {
+	display: inline-block;
+	background-color: yellow;
+	border: 2px solid black;
+	width: 62%;
+	padding: 0.5rem;
+	margin: 0.2rem;
+	font-family: "Carter One", cursive;
+	font-size: large;
+}
+#btn:hover {
+	background-color: rgb(255, 208, 0);
+}
